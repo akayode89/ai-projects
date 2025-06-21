@@ -1,0 +1,14 @@
+dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-deeplake
+deeplake
+langchain-openai
+tiktoken
+selenium
+langchain-huggingface
+langchain-chroma
+beautifulsoup4
+pypdf
+pydentic
