@@ -12,3 +12,8 @@ langchain-chroma
 beautifulsoup4
 pypdf
 pydentic
+newspaper3k
+lxml[html_clean]
+langgraph
+fastapi
+uvicorn
