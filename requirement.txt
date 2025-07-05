@@ -17,3 +17,5 @@ lxml[html_clean]
 langgraph
 fastapi
 uvicorn
+sqlalchemy
+streamlit
