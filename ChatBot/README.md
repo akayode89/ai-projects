@@ -26,4 +26,5 @@ It supports both a **CLI interface** and a **Streamlit-based web interface**, wi
 ├── app/cli.py         # CLI script to interact with the chatbot
 ├── app/chat_ui.py      # Streamlit web app interface
 ├── app/chat_memory.db      # SQLite database (auto-generated)
+├──run_chatbot.py
 └── README.md           # You are here!
